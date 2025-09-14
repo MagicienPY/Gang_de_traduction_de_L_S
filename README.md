@@ -1,6 +1,16 @@
 ##Ceci c'est le schema de la première version Mais actuelement se shema est associer au MOU6050 qui es un acceleromètre
 <img width="1153" height="740" alt="image" src="https://github.com/user-attachments/assets/275af607-9bbd-4f10-958d-a753a1f40d48" />
 <img width="1438" height="775" alt="image" src="https://github.com/user-attachments/assets/6d278736-bac8-4118-8f23-bcb34149cdcd" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/ff50e21e-72d9-431e-b27a-8ed0c7723172" />
+<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/fc881ff5-b3ad-4924-a45c-8a8fb52478f6" />
+en attente de connection par bluetooth
+<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/d4ab5843-3ef3-4a2f-9831-51f143975427" />
+l'installation l'application est verifier
+<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/a9bcc9ca-4905-4322-b384-569f9309ccaa" />
+
+
+
+
 
 nouvelle version plus a jour
 
