@@ -6,11 +6,11 @@ nouvelle version plus a jour
 
 
 
-# 🤟 SCHÉMA GANT LSF - 5 CAPTEURS FLEX + MPU6050 + 5 LEDs
+#  SCHÉMA GANT LSF - 5 CAPTEURS FLEX + MPU6050 + 5 LEDs
 
-## 📋 CONNEXIONS ARDUINO UNO
+##  CONNEXIONS ARDUINO UNO
 
-### 🔌 **CAPTEURS FLEX (5 doigts)**
+###  **CAPTEURS FLEX (5 doigts)**
 ```
 Capteur Flex POUCE      → A0 + Résistance 10kΩ → GND
 Capteur Flex INDEX      → A1 + Résistance 10kΩ → GND  
@@ -28,7 +28,7 @@ LED ANNULAIRE  → D11 + Résistance 220Ω → GND
 LED AURICULAIRE → D12 + Résistance 220Ω → GND
 ```
 
-### 📐 **MPU6050 (I2C)**
+###  **MPU6050 (I2C)**
 ```
 MPU6050 VCC → 3.3V  (⚠️ PAS 5V!)
 MPU6050 GND → GND
@@ -70,7 +70,7 @@ MPU6050 SDA → A4
 
 ---
 
-## 📦 **MATÉRIEL NÉCESSAIRE**
+##  **MATÉRIEL NÉCESSAIRE**
 
 - **1x** Arduino UNO
 - **5x** Capteurs Flex 2.2" (un par doigt)
@@ -110,7 +110,7 @@ ARDUINO: Dans pochette au poignet
 
 ---
 
-## 📊 **CONFIGURATION CODE**
+##  **CONFIGURATION CODE**
 
 ```cpp
 // Capteurs Flex (5 doigts)
